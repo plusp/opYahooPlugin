@@ -1,0 +1,6 @@
+yahooGadget: # ガジェット名
+  caption:
+    ja_JP: "ヤフオクガジェット" # ガジェット名称(日本語)
+  description:
+    ja_JP: "ヤフオクの検索します。" # ガジェット説明(日本語)
+  component: [yahoo, yahooGadget] # [module名, component名]
